@@ -16,7 +16,7 @@ interface Message {
   sender?: string;
 }
 
-const SOCKET_SERVER_URL = 'http://localhost:5000';
+const SOCKET_SERVER_URL = 'https://shadowchat-javd.onrender.com';
 
 const ChatRoom: React.FC = () => {
   const { roomId } = useParams<{ roomId: string }>();
