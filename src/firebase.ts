@@ -3,7 +3,7 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBHxJXZncJK4ciLAOPBfOYmsPpMDSIxkts",
+  apiKey: "Your-api",
   authDomain: "shadowchat-27cc6.firebaseapp.com",
   projectId: "shadowchat-27cc6",
   storageBucket: "shadowchat-27cc6.appspot.com",
